@@ -1,0 +1,12 @@
+{
+	"Setting up repository...": "Setting up repository...",
+	"Which docker-templates repo?": "Which docker-templates repo?",
+	"run the setup/edit wizard": "run the setup/edit wizard",
+	"Loading available configurations...": "Loading available configurations...",
+	"Should I rebase onto \"%s\"?": "Should I rebase onto \"%s\"?",
+	"Which programs do you want to install?": "Which programs do you want to install?",
+	"Should I apply these changes?": "Should I apply these changes?",
+	"Storing new configuration...": "Storing new configuration...",
+	"done": "done",
+	"No Changes detected!\nexiting...": "No Changes detected!\nexiting..."
+}

@@ -12,5 +12,5 @@ A small nodejs application for managing your [docker-templates](https://github.c
 # TBD
 ```
 
-## I found a bug! / I want Feature X!
+## I found a bug! / I want feature X!
 Please check the [github issues](https://github.com/749/docker-templates-cli/issues) and submit the bug/feature if it is not already there.
